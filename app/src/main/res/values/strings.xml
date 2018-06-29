@@ -3,4 +3,8 @@
     <string name="compose_shortcut_short">short</string>
     <string name="compose_shortcut_long">long</string>
     <string name="compose_disabled">disable</string>
+
+    <string name="facebook_app_id">483673542052617</string>
+    <string name="fb_login_protocol_scheme">fb483673542052617</string>
+
 </resources>
