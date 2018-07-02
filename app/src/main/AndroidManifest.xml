@@ -63,7 +63,13 @@
                 <data android:scheme="@string/fb_login_protocol_scheme" />
             </intent-filter>
         </activity>
-        <activity android:name=".WBActivity"></activity>
+        <activity android:name=".WBActivity" />
+        <meta-data
+            android:name="WEIBO_APPKEY"
+            android:value="2071408846" />
+        <meta-data
+            android:name="WEIBO_CHANNEL"
+            android:value="weibo" />
     </application>
 
 </manifest>
