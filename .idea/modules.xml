@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Github-logindemo.iml" filepath="$PROJECT_DIR$/Github-logindemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/logindemo.iml" filepath="$PROJECT_DIR$/logindemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/logindemo-app.iml" filepath="$PROJECT_DIR$/app/logindemo-app.iml" />
     </modules>
   </component>
 </project>

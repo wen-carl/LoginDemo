@@ -29,7 +29,7 @@ class QQLogin(val activity: Activity, val txtInfo: TextView) : IUiListener {
     }
 
     override fun onComplete(p0: Any?) {
-        Log.e(TAG, p0.toString())
+        Log.i(TAG, p0.toString())
 
         when (mType) {
             ListenerType.LOG_IN -> {
